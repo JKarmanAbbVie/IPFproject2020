@@ -1,0 +1,583 @@
+,Phenotype,Sex,Age,dlco,fev1_pre,fev1_post,fev1_post,fvc_pre,fvc_post,subtype,smoker,emphysema,gold_stage
+GSM1149948,Control,Male,75,78,96,no_value,no_value,97,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1149950,Interstitial lung disease,Male,54,16,40,no_value,no_value,39,no_value,2-UIP/IPF,2_Ever,1.903,no_value
+GSM1149951,Control,Male,48,107,107,110,fev1_post: 110,113,113,no_value,2_Ever,no_value,0-At Risk
+GSM1149952,Interstitial lung disease,Male,67,17,26,no_value,no_value,21,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1149958,Control,Male,62,80,94,95,fev1_post: 95,95,97,no_value,no_value,no_value,0-At Risk
+GSM1149962,Control,Female,65,no_value,109,113,fev1_post: 113,108,108,no_value,no_value,no_value,0-At Risk
+GSM1149963,Control,Female,63,45,85,90,fev1_post: 90,86,88,no_value,1_Current,no_value,0-At Risk
+GSM1149966,Control,Female,73,115,136,143,fev1_post: 143,146,150,no_value,3_Never,no_value,0-At Risk
+GSM1149971,Control,Male,82,no_value,103,no_value,no_value,88,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1149975,Control,Female,72,no_value,106,no_value,no_value,103,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1149981,Control,Female,82,no_value,96,no_value,no_value,97,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1149985,Interstitial lung disease,Male,54,25,40,no_value,no_value,39,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1149987,Control,Male,68,69,81,86,fev1_post: 86,87,90,no_value,2_Ever,no_value,0-At Risk
+GSM1149988,Control,Female,56,60,86,no_value,no_value,79,no_value,no_value,3_Never,no_value,0-At Risk
+GSM1149992,Control,Female,73,94,96,no_value,no_value,96,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1149993,Interstitial lung disease,Female,58,26,42,no_value,no_value,38,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1149996,Interstitial lung disease,Male,62,11,46,no_value,no_value,40,no_value,2-UIP/IPF,2_Ever,0.605,no_value
+GSM1149998,Control,Male,74,90,87,no_value,no_value,89,no_value,no_value,3_Never,no_value,0-At Risk
+GSM1150001,Control,Male,60,83,98,94,fev1_post: 94,90,84,no_value,3_Never,no_value,0-At Risk
+GSM1150010,Interstitial lung disease,Female,70,38,93,no_value,no_value,75,no_value,2-UIP/IPF,2_Ever,0.746,0-At Risk
+GSM1150012,Control,Female,49,100,86,89,fev1_post: 89,83,86,no_value,2_Ever,no_value,0-At Risk
+GSM1150014,Control,Male,65,78,93,97,fev1_post: 97,94,96,no_value,2_Ever,no_value,0-At Risk
+GSM1150017,Control,Male,72,103,132,135,fev1_post: 135,142,139,no_value,3_Never,no_value,0-At Risk
+GSM1150030,Control,Female,46,81,82,no_value,no_value,85,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1150031,Control,Male,58,78,99,98,fev1_post: 98,89,89,no_value,2_Ever,0.098,0-At Risk
+GSM1150032,Control,Female,62,85,109,111,fev1_post: 111,109,110,no_value,2_Ever,no_value,0-At Risk
+GSM1150037,Control,Female,82,79,97,no_value,no_value,82,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1150040,Control,Female,52,100,104,105,fev1_post: 105,103,97,no_value,3_Never,no_value,0-At Risk
+GSM1150041,Control,Female,52,no_value,83,88,fev1_post: 88,91,93,no_value,no_value,no_value,0-At Risk
+GSM1150053,Control,Male,63,144,102,no_value,no_value,93,no_value,no_value,2_Ever,0.457,0-At Risk
+GSM1150055,Control,Male,58,78,100,no_value,no_value,100,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1150056,Interstitial lung disease,Male,53,22,57,no_value,no_value,53,no_value,2-UIP/IPF,2_Ever,1.465,no_value
+GSM1150067,Interstitial lung disease,Male,70,41,63,no_value,no_value,54,no_value,2-UIP/IPF,2_Ever,0.016,no_value
+GSM1150070,Control,Female,32,63,84,94,fev1_post: 94,98,103,no_value,3_Never,no_value,0-At Risk
+GSM1150075,Control,Female,80,93,117,123,fev1_post: 123,116,117,no_value,3_Never,no_value,0-At Risk
+GSM1150078,Control,Female,64,no_value,87,89,fev1_post: 89,86,90,no_value,no_value,no_value,0-At Risk
+GSM1150080,Control,Male,73,85,91,87,fev1_post: 87,90,83,no_value,2_Ever,no_value,0-At Risk
+GSM1150081,Control,Female,44,88,83,85,fev1_post: 85,88,92,no_value,no_value,no_value,0-At Risk
+GSM1150085,Control,Male,53,62,73,83,fev1_post: 83,94,89,no_value,no_value,no_value,0-At Risk
+GSM1150089,Interstitial lung disease,Male,72,43,58,no_value,no_value,52,no_value,2-UIP/IPF,3_Never,1.139,no_value
+GSM1150090,Control,Female,57,91,85,91,fev1_post: 91,92,93,no_value,3_Never,no_value,0-At Risk
+GSM1150100,Interstitial lung disease,Male,56,39,58,no_value,no_value,51,no_value,2-UIP/IPF,2_Ever,0.141,no_value
+GSM1150119,Interstitial lung disease,Male,64,no_value,55,no_value,no_value,48,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150122,Interstitial lung disease,Male,65,27,81,no_value,no_value,82,no_value,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150143,Control,Male,59,78,77,82,fev1_post: 82,76,78,no_value,2_Ever,0.864,0-At Risk
+GSM1150144,Control,Female,61,66,82,91,fev1_post: 91,84,92,no_value,no_value,no_value,0-At Risk
+GSM1150145,Chronic Obstructive Lung Disease,Male,51,33,22,no_value,no_value,52,no_value,no_value,2_Ever,6.3,4-Very Severe COPD
+GSM1150146,Control,Female,49,63,97,no_value,no_value,93,no_value,no_value,2_Ever,0.009,0-At Risk
+GSM1150147,Chronic Obstructive Lung Disease,Male,64,77,77,80,fev1_post: 80,105,90,no_value,2_Ever,0.1,1-Mild COPD
+GSM1150148,Control,Male,60,102,96,103,fev1_post: 103,98,100,no_value,2_Ever,no_value,0-At Risk
+GSM1150149,Control,Male,77,84,80,84,fev1_post: 84,77,82,no_value,no_value,no_value,0-At Risk
+GSM1150150,Control,Male,65,81,85,95,fev1_post: 95,93,99,no_value,2_Ever,1.173,0-At Risk
+GSM1150151,Control,Female,65,80,97,102,fev1_post: 102,109,108,no_value,2_Ever,no_value,0-At Risk
+GSM1150152,Control,Female,67,66,97,102,fev1_post: 102,96,101,no_value,2_Ever,no_value,0-At Risk
+GSM1150153,Control,Female,77,74,84,93,fev1_post: 93,88,89,no_value,3_Never,0.026,0-At Risk
+GSM1150154,Control,Male,46,117,101,106,fev1_post: 106,96,100,no_value,no_value,no_value,0-At Risk
+GSM1150155,Interstitial lung disease,Male,49,34,43,no_value,no_value,44,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",3_Never,0.001,no_value
+GSM1150156,Control,Female,63,86,108,108,fev1_post: 108,104,104,no_value,2_Ever,no_value,0-At Risk
+GSM1150157,Control,Male,60,70,86,no_value,no_value,79,no_value,no_value,2_Ever,0.33,0-At Risk
+GSM1150158,Control,Male,60,104,94,96,fev1_post: 96,94,94,no_value,2_Ever,0.497,0-At Risk
+GSM1150159,Control,Female,79,75,106,104,fev1_post: 104,93,92,no_value,3_Never,0.061,0-At Risk
+GSM1150160,Control,Male,64,65,75,86,fev1_post: 86,83,88,no_value,2_Ever,0.07,0-At Risk
+GSM1150161,Control,Male,74,58,83,90,fev1_post: 90,80,90,no_value,2_Ever,no_value,0-At Risk
+GSM1150162,Chronic Obstructive Lung Disease,Female,48,31,20,23,fev1_post: 23,32,36,no_value,2_Ever,46.559,4-Very Severe COPD
+GSM1150163,Interstitial lung disease,Male,47,58,78,no_value,no_value,72,no_value,4-Desquamative interstitial pneumonia (DIP),3_Never,no_value,no_value
+GSM1150164,Chronic Obstructive Lung Disease,Female,60,26,16,no_value,no_value,58,no_value,no_value,2_Ever,45,4-Very Severe COPD
+GSM1150165,Control,Female,47,104,98,99,fev1_post: 99,85,85,no_value,3_Never,no_value,0-At Risk
+GSM1150166,Chronic Obstructive Lung Disease,Male,73,54,118,121,fev1_post: 121,92,92,no_value,3_Never,no_value,0-At Risk
+GSM1150167,Control,Male,60,79,88,no_value,no_value,85,no_value,no_value,2_Ever,0.151,0-At Risk
+GSM1150168,Control,Male,57,88,84,no_value,no_value,73,no_value,no_value,3_Never,0.006,0-At Risk
+GSM1150169,Interstitial lung disease,Female,62,no_value,no_value,no_value,no_value,no_value,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150170,Chronic Obstructive Lung Disease,Female,63,no_value,16,16,fev1_post: 16,50,56,no_value,2_Ever,59.7,4-Very Severe COPD
+GSM1150171,Control,Female,55,92,89,104,fev1_post: 104,103,106,no_value,2_Ever,0.216,0-At Risk
+GSM1150172,Interstitial lung disease,Female,41,no_value,72,no_value,no_value,78,no_value,4-Desquamative interstitial pneumonia (DIP),1_Current,0.046,no_value
+GSM1150173,Interstitial lung disease,Male,67,41,75,74,fev1_post: 74,60,60,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150174,Control,Male,86,81,87,99,fev1_post: 99,79,88,no_value,2_Ever,0.275,0-At Risk
+GSM1150175,Control,Male,87,no_value,129,no_value,no_value,122,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1150176,Control,Male,45,71,89,91,fev1_post: 91,86,87,no_value,2_Ever,4.03,0-At Risk
+GSM1150177,Interstitial lung disease,Female,57,60,63,no_value,no_value,58,no_value,2-UIP/IPF,3_Never,0.356,no_value
+GSM1150178,Chronic Obstructive Lung Disease,Male,65,36,46,52,fev1_post: 52,74,81,no_value,2_Ever,6.168,2-Moderate COPD
+GSM1150179,Interstitial lung disease,Female,63,61,70,81,fev1_post: 81,69,71,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150180,Interstitial lung disease,Male,52,no_value,66,no_value,no_value,91,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),3_Never,no_value,2-Moderate COPD
+GSM1150181,Interstitial lung disease,Male,65,75,95,98,fev1_post: 98,92,92,3-NSIP,2_Ever,no_value,0-At Risk
+GSM1150182,Chronic Obstructive Lung Disease,Female,71,50,31,32,fev1_post: 32,67,66,no_value,2_Ever,15.9,3-Severe COPD
+GSM1150183,Interstitial lung disease,Female,43,92,65,69,fev1_post: 69,69,72,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150184,Chronic Obstructive Lung Disease,Male,62,82,46,55,fev1_post: 55,56,64,no_value,2_Ever,0.4,2-Moderate COPD
+GSM1150185,Chronic Obstructive Lung Disease,Female,61,no_value,67,69,fev1_post: 69,68,72,no_value,2_Ever,0.4,no_value
+GSM1150186,Chronic Obstructive Lung Disease,Male,63,77,73,77,fev1_post: 77,88,91,no_value,2_Ever,0.8,2-Moderate COPD
+GSM1150187,Chronic Obstructive Lung Disease,Male,67,20,76,80,fev1_post: 80,88,90,no_value,2_Ever,40.046,1-Mild COPD
+GSM1150188,Chronic Obstructive Lung Disease,Male,77,no_value,35,35,fev1_post: 35,73,76,no_value,2_Ever,13.886,3-Severe COPD
+GSM1150189,Chronic Obstructive Lung Disease,Female,64,31,27,32,fev1_post: 32,73,71,no_value,2_Ever,42.5,3-Severe COPD
+GSM1150190,Chronic Obstructive Lung Disease,Male,71,48,60,65,fev1_post: 65,98,116,no_value,1_Current,11.616,2-Moderate COPD
+GSM1150191,Interstitial lung disease,Male,64,71,93,96,fev1_post: 96,84,83,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150192,Chronic Obstructive Lung Disease,Female,73,48,53,60,fev1_post: 60,86,87,no_value,2_Ever,16.4,2-Moderate COPD
+GSM1150193,Chronic Obstructive Lung Disease,Female,77,35,33,44,fev1_post: 44,72,91,no_value,2_Ever,8.555,3-Severe COPD
+GSM1150194,Interstitial lung disease,Male,58,58,73,no_value,no_value,67,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,no_value
+GSM1150195,Interstitial lung disease,Female,38,47,71,72,fev1_post: 72,68,67,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,no_value
+GSM1150196,Interstitial lung disease,Male,62,33,85,no_value,no_value,74,no_value,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150197,Interstitial lung disease,Male,54,65,101,no_value,no_value,82,no_value,2-UIP/IPF,2_Ever,0.43,0-At Risk
+GSM1150198,Interstitial lung disease,Male,69,72,94,95,fev1_post: 95,91,90,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150199,Chronic Obstructive Lung Disease,Female,68,43,60,60,fev1_post: 60,70,80,no_value,2_Ever,16.3,2-Moderate COPD
+GSM1150200,Chronic Obstructive Lung Disease,Female,75,82,75,79,fev1_post: 79,83,85,no_value,2_Ever,1.216,2-Moderate COPD
+GSM1150201,Chronic Obstructive Lung Disease,Female,59,61,61,66,fev1_post: 66,76,77,no_value,2_Ever,6.392,2-Moderate COPD
+GSM1150202,Interstitial lung disease,Female,53,no_value,70,no_value,no_value,65,no_value,3-NSIP,2_Ever,no_value,no_value
+GSM1150203,Chronic Obstructive Lung Disease,Female,66,38,59,no_value,no_value,86,no_value,no_value,2_Ever,2.3,2-Moderate COPD
+GSM1150204,Chronic Obstructive Lung Disease,Male,69,22,22,25,fev1_post: 25,50,54,no_value,2_Ever,23.6,4-Very Severe COPD
+GSM1150205,Interstitial lung disease,Male,74,57,77,83,fev1_post: 83,83,90,10-Fibrosis-Uncharacterized,2_Ever,no_value,1-Mild COPD
+GSM1150206,Chronic Obstructive Lung Disease,Female,60,no_value,43,41,fev1_post: 41,78,78,no_value,2_Ever,14.325,3-Severe COPD
+GSM1150207,Interstitial lung disease,Male,62,92,75,77,fev1_post: 77,67,74,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150208,Interstitial lung disease,Male,72,59,83,81,fev1_post: 81,87,84,2-UIP/IPF,2_Ever,2.436,0-At Risk
+GSM1150209,Interstitial lung disease,Male,69,26,42,no_value,no_value,37,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150210,Chronic Obstructive Lung Disease,Male,69,66,48,56,fev1_post: 56,79,85,no_value,2_Ever,2.5,2-Moderate COPD
+GSM1150211,Chronic Obstructive Lung Disease,Male,54,39,25,25,fev1_post: 25,50,49,no_value,2_Ever,46,4-Very Severe COPD
+GSM1150212,Chronic Obstructive Lung Disease,Male,78,48,52,57,fev1_post: 57,65,75,no_value,1_Current,6.664,2-Moderate COPD
+GSM1150213,Chronic Obstructive Lung Disease,Female,71,57,37,46,fev1_post: 46,59,72,no_value,2_Ever,20.1,3-Severe COPD
+GSM1150214,Chronic Obstructive Lung Disease,Male,48,86,no_value,55,fev1_post: 55,no_value,63,no_value,2_Ever,1.5,2-Moderate COPD
+GSM1150215,Chronic Obstructive Lung Disease,Female,60,108,78,no_value,no_value,91,no_value,no_value,3_Never,0.308,2-Moderate COPD
+GSM1150216,Interstitial lung disease,Male,39,77,92,107,fev1_post: 107,94,101,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),2_Ever,no_value,0-At Risk
+GSM1150217,Interstitial lung disease,Male,53,no_value,85,no_value,no_value,103,no_value,3-NSIP,2_Ever,no_value,1-Mild COPD
+GSM1150218,Interstitial lung disease,Male,46,45,64,66,fev1_post: 66,62,64,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),2_Ever,no_value,no_value
+GSM1150219,Interstitial lung disease,Male,56,no_value,no_value,no_value,no_value,no_value,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),no_value,no_value,no_value
+GSM1150220,Chronic Obstructive Lung Disease,Male,74,58,55,52,fev1_post: 52,76,69,no_value,3_Never,1.704,2-Moderate COPD
+GSM1150221,Interstitial lung disease,Male,65,56,69,70,fev1_post: 70,54,55,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150222,Interstitial lung disease,Female,47,57,65,71,fev1_post: 71,64,67,3-NSIP,2_Ever,no_value,no_value
+GSM1150223,Chronic Obstructive Lung Disease,Male,62,77,92,no_value,no_value,90,no_value,no_value,2_Ever,0.307,0-At Risk
+GSM1150224,Chronic Obstructive Lung Disease,Male,73,53,69,74,fev1_post: 74,100,103,no_value,2_Ever,1.5,2-Moderate COPD
+GSM1150225,Chronic Obstructive Lung Disease,Female,68,71,49,53,fev1_post: 53,61,64,no_value,2_Ever,0.012,2-Moderate COPD
+GSM1150226,Chronic Obstructive Lung Disease,Female,67,54,63,63,fev1_post: 63,94,95,no_value,1_Current,9.647,2-Moderate COPD
+GSM1150227,Interstitial lung disease,Male,60,45,73,76,fev1_post: 76,63,64,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,no_value
+GSM1150228,Chronic Obstructive Lung Disease,Male,74,55,51,no_value,no_value,64,no_value,no_value,2_Ever,0.173,2-Moderate COPD
+GSM1150229,Interstitial lung disease,Male,69,72,44,72,fev1_post: 72,44,65,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150230,Interstitial lung disease,Female,52,68,73,72,fev1_post: 72,73,71,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,no_value
+GSM1150231,Interstitial lung disease,Male,62,no_value,33,no_value,no_value,27,no_value,2-UIP/IPF,no_value,no_value,no_value
+GSM1150232,Interstitial lung disease,Male,68,60,89,94,fev1_post: 94,87,91,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150233,Interstitial lung disease,Male,68,67,66,65,fev1_post: 65,63,61,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150234,Chronic Obstructive Lung Disease,Male,78,77,66,72,fev1_post: 72,81,91,no_value,3_Never,0.634,2-Moderate COPD
+GSM1150235,Chronic Obstructive Lung Disease,Male,75,no_value,34,no_value,no_value,80,no_value,no_value,2_Ever,8.162,3-Severe COPD
+GSM1150236,Chronic Obstructive Lung Disease,Male,73,91,82,85,fev1_post: 85,95,96,no_value,2_Ever,0.2,1-Mild COPD
+GSM1150237,Chronic Obstructive Lung Disease,Male,69,70,62,73,fev1_post: 73,72,85,no_value,2_Ever,11.4,2-Moderate COPD
+GSM1150238,Chronic Obstructive Lung Disease,Male,71,30,66,67,fev1_post: 67,81,80,no_value,2_Ever,14,2-Moderate COPD
+GSM1150239,Chronic Obstructive Lung Disease,Female,61,80,60,67,fev1_post: 67,70,80,no_value,2_Ever,0.1,2-Moderate COPD
+GSM1150240,Chronic Obstructive Lung Disease,Female,64,55,59,60,fev1_post: 60,78,78,no_value,1_Current,0.777,2-Moderate COPD
+GSM1150241,Interstitial lung disease,Female,66,38,39,42,fev1_post: 42,38,39,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,no_value
+GSM1150242,Chronic Obstructive Lung Disease,Male,66,77,50,54,fev1_post: 54,69,76,no_value,2_Ever,8.7,2-Moderate COPD
+GSM1150243,Chronic Obstructive Lung Disease,Male,81,91,73,80,fev1_post: 80,121,128,no_value,2_Ever,14.5,2-Moderate COPD
+GSM1150244,Interstitial lung disease,Male,68,68,68,72,fev1_post: 72,58,60,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150245,Interstitial lung disease,Male,59,95,75,80,fev1_post: 80,69,72,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150246,Chronic Obstructive Lung Disease,Female,72,45,75,76,fev1_post: 76,89,91,no_value,2_Ever,6.406,2-Moderate COPD
+GSM1150247,Interstitial lung disease,Male,71,no_value,83,no_value,no_value,71,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150248,Chronic Obstructive Lung Disease,Female,53,30,16,26,fev1_post: 26,50,74,no_value,2_Ever,31.7,4-Very Severe COPD
+GSM1150249,Chronic Obstructive Lung Disease,Male,63,64,51,52,fev1_post: 52,79,82,no_value,2_Ever,9.018,2-Moderate COPD
+GSM1150250,Chronic Obstructive Lung Disease,Male,67,104,70,69,fev1_post: 69,83,82,no_value,3_Never,0.031,2-Moderate COPD
+GSM1150251,Chronic Obstructive Lung Disease,Male,77,34,99,97,fev1_post: 97,111,109,no_value,2_Ever,7.7,1-Mild COPD
+GSM1150252,Interstitial lung disease,Male,58,76,89,no_value,no_value,92,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),2_Ever,no_value,0-At Risk
+GSM1150253,Chronic Obstructive Lung Disease,Male,66,47,34,no_value,no_value,60,no_value,no_value,2_Ever,14.493,3-Severe COPD
+GSM1150254,Chronic Obstructive Lung Disease,Male,54,81,83,85,fev1_post: 85,96,98,no_value,2_Ever,3.7,1-Mild COPD
+GSM1150255,Chronic Obstructive Lung Disease,Male,52,49,41,no_value,no_value,67,no_value,no_value,2_Ever,39.5,3-Severe COPD
+GSM1150256,Interstitial lung disease,Male,45,43,69,73,fev1_post: 73,64,66,2-UIP/IPF,no_value,no_value,no_value
+GSM1150257,Interstitial lung disease,Male,69,53,82,89,fev1_post: 89,79,86,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,0-At Risk
+GSM1150258,Chronic Obstructive Lung Disease,Male,72,62,69,82,fev1_post: 82,89,91,no_value,2_Ever,4.232,1-Mild COPD
+GSM1150259,Interstitial lung disease,Female,62,105,103,104,fev1_post: 104,97,97,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),2_Ever,no_value,0-At Risk
+GSM1150260,Interstitial lung disease,Female,72,81,96,105,fev1_post: 105,92,97,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150261,Chronic Obstructive Lung Disease,Male,72,70,47,51,fev1_post: 51,66,75,no_value,2_Ever,2.3,2-Moderate COPD
+GSM1150262,Chronic Obstructive Lung Disease,Male,68,34,no_value,16,fev1_post: 16,no_value,57,no_value,2_Ever,28.9,4-Very Severe COPD
+GSM1150263,Chronic Obstructive Lung Disease,Female,70,67,67,74,fev1_post: 74,89,95,no_value,2_Ever,6.021,2-Moderate COPD
+GSM1150264,Interstitial lung disease,Female,74,no_value,94,88,fev1_post: 88,75,73,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150265,Chronic Obstructive Lung Disease,Male,59,no_value,60,62,fev1_post: 62,69,68,no_value,2_Ever,0.478,2-Moderate COPD
+GSM1150266,Chronic Obstructive Lung Disease,Female,58,no_value,23,21,fev1_post: 21,41,42,no_value,2_Ever,56.335,4-Very Severe COPD
+GSM1150267,Interstitial lung disease,Male,57,68,76,79,fev1_post: 79,79,78,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150268,Chronic Obstructive Lung Disease,Female,70,22,33,37,fev1_post: 37,51,59,no_value,2_Ever,31.664,3-Severe COPD
+GSM1150269,Chronic Obstructive Lung Disease,Female,65,38,29,35,fev1_post: 35,52,66,no_value,1_Current,29.4,3-Severe COPD
+GSM1150270,Interstitial lung disease,Male,69,50,58,54,fev1_post: 54,53,50,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150271,Interstitial lung disease,Female,67,65,85,92,fev1_post: 92,72,75,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,0-At Risk
+GSM1150272,Chronic Obstructive Lung Disease,Female,64,87,61,67,fev1_post: 67,72,76,no_value,1_Current,0.173,2-Moderate COPD
+GSM1150273,Interstitial lung disease,Male,73,31,44,46,fev1_post: 46,42,45,3-NSIP,3_Never,no_value,no_value
+GSM1150274,Chronic Obstructive Lung Disease,Male,74,91,79,92,fev1_post: 92,104,118,no_value,2_Ever,6,1-Mild COPD
+GSM1150275,Chronic Obstructive Lung Disease,Male,73,76,105,no_value,no_value,112,no_value,no_value,2_Ever,5.6,1-Mild COPD
+GSM1150276,Chronic Obstructive Lung Disease,Male,74,68,62,70,fev1_post: 70,69,75,no_value,2_Ever,1.8,2-Moderate COPD
+GSM1150277,Interstitial lung disease,Male,40,75,85,no_value,no_value,79,no_value,2-UIP/IPF,2_Ever,0.362,0-At Risk
+GSM1150278,Chronic Obstructive Lung Disease,Male,77,72,93,no_value,no_value,95,no_value,no_value,2_Ever,1,1-Mild COPD
+GSM1150279,Chronic Obstructive Lung Disease,Female,72,52,72,83,fev1_post: 83,87,98,no_value,2_Ever,11.759,1-Mild COPD
+GSM1150280,Interstitial lung disease,Female,49,46,79,82,fev1_post: 82,63,67,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150281,Interstitial lung disease,Male,66,46,63,69,fev1_post: 69,59,59,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150282,Interstitial lung disease,Female,54,97,87,90,fev1_post: 90,80,81,3-NSIP,3_Never,no_value,0-At Risk
+GSM1150283,Chronic Obstructive Lung Disease,Male,71,60,78,no_value,no_value,82,no_value,no_value,1_Current,0.4,2-Moderate COPD
+GSM1150284,Chronic Obstructive Lung Disease,Female,78,96,63,77,fev1_post: 77,92,106,no_value,2_Ever,1.1,2-Moderate COPD
+GSM1150285,Chronic Obstructive Lung Disease,Female,80,39,58,65,fev1_post: 65,68,71,no_value,2_Ever,0.4,2-Moderate COPD
+GSM1150286,Interstitial lung disease,Female,45,no_value,31,no_value,no_value,28,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150287,Interstitial lung disease,Male,47,49,23,25,fev1_post: 25,46,51,10-Fibrosis-Uncharacterized,2_Ever,no_value,4-Very Severe COPD
+GSM1150288,Chronic Obstructive Lung Disease,Female,57,43,61,59,fev1_post: 59,85,89,no_value,2_Ever,4.4,2-Moderate COPD
+GSM1150289,Interstitial lung disease,Female,68,81,90,no_value,no_value,82,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,0-At Risk
+GSM1150290,Chronic Obstructive Lung Disease,Male,76,92,87,no_value,no_value,100,no_value,no_value,2_Ever,1.7,1-Mild COPD
+GSM1150291,Chronic Obstructive Lung Disease,Female,61,72,37,no_value,no_value,47,no_value,no_value,3_Never,1.3,3-Severe COPD
+GSM1150292,Interstitial lung disease,Female,59,92,67,no_value,no_value,67,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),2_Ever,no_value,no_value
+GSM1150293,Chronic Obstructive Lung Disease,Male,73,42,66,68,fev1_post: 68,90,97,no_value,2_Ever,16.906,2-Moderate COPD
+GSM1150294,Chronic Obstructive Lung Disease,Female,82,28,58,71,fev1_post: 71,100,126,no_value,2_Ever,31.3,2-Moderate COPD
+GSM1150295,Chronic Obstructive Lung Disease,Female,59,55,51,57,fev1_post: 57,79,81,no_value,2_Ever,11.725,2-Moderate COPD
+GSM1150296,Chronic Obstructive Lung Disease,Female,48,47,22,23,fev1_post: 23,67,72,no_value,2_Ever,37.954,4-Very Severe COPD
+GSM1150297,Chronic Obstructive Lung Disease,Female,59,66,55,59,fev1_post: 59,77,79,no_value,1_Current,1.512,2-Moderate COPD
+GSM1150298,Chronic Obstructive Lung Disease,Male,76,59,54,57,fev1_post: 57,64,69,no_value,2_Ever,1.523,2-Moderate COPD
+GSM1150299,Interstitial lung disease,Female,69,60,94,no_value,no_value,86,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,0-At Risk
+GSM1150300,Chronic Obstructive Lung Disease,Female,58,48,66,66,fev1_post: 66,88,90,no_value,2_Ever,4.959,2-Moderate COPD
+GSM1150301,Chronic Obstructive Lung Disease,Male,68,70,59,69,fev1_post: 69,91,96,no_value,2_Ever,0.8,2-Moderate COPD
+GSM1150302,Interstitial lung disease,Male,68,no_value,79,no_value,no_value,72,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150303,Chronic Obstructive Lung Disease,Male,78,74,84,92,fev1_post: 92,84,97,no_value,2_Ever,0.5,1-Mild COPD
+GSM1150304,Chronic Obstructive Lung Disease,Male,73,no_value,24,26,fev1_post: 26,78,90,no_value,2_Ever,no_value,4-Very Severe COPD
+GSM1150305,Chronic Obstructive Lung Disease,Female,84,34,65,74,fev1_post: 74,79,84,no_value,2_Ever,0.8,2-Moderate COPD
+GSM1150306,Interstitial lung disease,Male,53,60,68,70,fev1_post: 70,61,63,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150307,Chronic Obstructive Lung Disease,Male,62,30,18,25,fev1_post: 25,58,76,no_value,2_Ever,37.8,4-Very Severe COPD
+GSM1150308,Chronic Obstructive Lung Disease,Male,72,101,70,no_value,no_value,75,no_value,no_value,2_Ever,0.5,2-Moderate COPD
+GSM1150309,Chronic Obstructive Lung Disease,Male,76,51,63,69,fev1_post: 69,92,100,no_value,2_Ever,10.7,2-Moderate COPD
+GSM1150310,Interstitial lung disease,Male,80,52,88,94,fev1_post: 94,79,78,3-NSIP,2_Ever,no_value,0-At Risk
+GSM1150311,Chronic Obstructive Lung Disease,Female,78,48,59,56,fev1_post: 56,63,72,no_value,2_Ever,0.1,2-Moderate COPD
+GSM1150312,Chronic Obstructive Lung Disease,Female,67,94,65,74,fev1_post: 74,84,87,no_value,2_Ever,1,2-Moderate COPD
+GSM1150313,Interstitial lung disease,Male,65,49,74,74,fev1_post: 74,70,63,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150314,Interstitial lung disease,Female,52,99,39,46,fev1_post: 46,69,84,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,3-Severe COPD
+GSM1150315,Chronic Obstructive Lung Disease,Female,73,42,81,83,fev1_post: 83,100,98,no_value,2_Ever,20.4,1-Mild COPD
+GSM1150316,Chronic Obstructive Lung Disease,Male,64,39,45,47,fev1_post: 47,91,92,no_value,2_Ever,48.9,3-Severe COPD
+GSM1150317,Interstitial lung disease,Male,72,no_value,55,no_value,no_value,51,no_value,3-NSIP,2_Ever,no_value,no_value
+GSM1150318,Chronic Obstructive Lung Disease,Female,55,66,79,78,fev1_post: 78,96,95,no_value,1_Current,26.7,2-Moderate COPD
+GSM1150319,Interstitial lung disease,Female,55,58,50,52,fev1_post: 52,43,44,3-NSIP,2_Ever,no_value,no_value
+GSM1150321,Chronic Obstructive Lung Disease,Female,58,92,87,91,fev1_post: 91,89,90,no_value,3_Never,0.004,0-At Risk
+GSM1150331,Chronic Obstructive Lung Disease,Female,78,no_value,59,59,fev1_post: 59,76,88,no_value,2_Ever,11.563,2-Moderate COPD
+GSM1150332,Chronic Obstructive Lung Disease,Male,54,33,24,27,fev1_post: 27,42,47,no_value,2_Ever,17,4-Very Severe COPD
+GSM1150334,Chronic Obstructive Lung Disease,Male,63,50,28,29,fev1_post: 29,69,70,no_value,2_Ever,no_value,4-Very Severe COPD
+GSM1150336,Chronic Obstructive Lung Disease,Male,60,56,61,71,fev1_post: 71,85,104,no_value,2_Ever,2.6,2-Moderate COPD
+GSM1150338,Chronic Obstructive Lung Disease,Male,46,45,48,58,fev1_post: 58,79,82,no_value,1_Current,0.5,2-Moderate COPD
+GSM1150339,Chronic Obstructive Lung Disease,Male,63,105,74,90,fev1_post: 90,103,108,no_value,2_Ever,0.126,1-Mild COPD
+GSM1150341,Chronic Obstructive Lung Disease,Male,68,66,89,no_value,no_value,100,no_value,no_value,2_Ever,0.419,1-Mild COPD
+GSM1150343,Chronic Obstructive Lung Disease,Male,67,83,77,no_value,no_value,85,no_value,no_value,2_Ever,0.083,2-Moderate COPD
+GSM1150344,Chronic Obstructive Lung Disease,Male,68,48,62,66,fev1_post: 66,73,73,no_value,2_Ever,0.2,2-Moderate COPD
+GSM1150346,Chronic Obstructive Lung Disease,Female,57,27,23,no_value,no_value,49,no_value,no_value,2_Ever,no_value,4-Very Severe COPD
+GSM1150347,Interstitial lung disease,Female,77,58,80,no_value,no_value,72,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,no_value
+GSM1150349,Chronic Obstructive Lung Disease,Male,64,85,101,no_value,no_value,96,no_value,no_value,3_Never,0.146,0-At Risk
+GSM1150351,Chronic Obstructive Lung Disease,Male,65,69,46,58,fev1_post: 58,75,94,no_value,2_Ever,21.6,2-Moderate COPD
+GSM1150352,Chronic Obstructive Lung Disease,Male,68,58,48,51,fev1_post: 51,84,94,no_value,2_Ever,4.1,2-Moderate COPD
+GSM1150353,Chronic Obstructive Lung Disease,Male,68,48,26,32,fev1_post: 32,71,81,no_value,2_Ever,14.9,3-Severe COPD
+GSM1150354,Interstitial lung disease,Male,58,60,69,66,fev1_post: 66,61,59,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150355,Interstitial lung disease,Male,69,51,82,no_value,no_value,70,no_value,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150357,Chronic Obstructive Lung Disease,Male,64,44,25,27,fev1_post: 27,63,60,no_value,2_Ever,38.5,4-Very Severe COPD
+GSM1150358,Chronic Obstructive Lung Disease,Female,78,47,86,91,fev1_post: 91,104,106,no_value,2_Ever,13.525,1-Mild COPD
+GSM1150359,Chronic Obstructive Lung Disease,Male,68,71,60,70,fev1_post: 70,90,94,no_value,2_Ever,2.5,2-Moderate COPD
+GSM1150361,Interstitial lung disease,Male,43,51,62,no_value,no_value,61,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,no_value
+GSM1150362,Chronic Obstructive Lung Disease,Female,58,41,19,20,fev1_post: 20,44,56,no_value,2_Ever,25.5,4-Very Severe COPD
+GSM1150363,Interstitial lung disease,Female,73,39,78,no_value,no_value,64,no_value,2-UIP/IPF,3_Never,0.012,no_value
+GSM1150364,Chronic Obstructive Lung Disease,Female,69,99,93,97,fev1_post: 97,106,107,no_value,3_Never,2.291,1-Mild COPD
+GSM1150365,Interstitial lung disease,Female,70,36,56,no_value,no_value,47,no_value,2-UIP/IPF,3_Never,0.051,no_value
+GSM1150366,Interstitial lung disease,Male,63,42,67,no_value,no_value,61,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,no_value
+GSM1150367,Interstitial lung disease,Male,52,63,56,60,fev1_post: 60,51,53,2-UIP/IPF,2_Ever,0.03,no_value
+GSM1150368,Interstitial lung disease,Female,51,38,71,no_value,no_value,63,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,no_value,no_value
+GSM1150369,Chronic Obstructive Lung Disease,Male,70,no_value,78,74,fev1_post: 74,101,98,no_value,2_Ever,4.6,2-Moderate COPD
+GSM1150370,Interstitial lung disease,Male,68,69,66,no_value,no_value,56,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150371,Interstitial lung disease,Male,48,no_value,71,no_value,no_value,68,no_value,4-Desquamative interstitial pneumonia (DIP),2_Ever,no_value,no_value
+GSM1150372,Interstitial lung disease,Female,68,95,90,no_value,no_value,83,no_value,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150373,Control,Female,51,95,83,85,fev1_post: 85,79,78,no_value,3_Never,no_value,0-At Risk
+GSM1150374,Interstitial lung disease,Male,55,51,69,70,fev1_post: 70,66,67,3-NSIP,1_Current,no_value,no_value
+GSM1150375,Interstitial lung disease,Male,64,31,42,43,fev1_post: 43,42,42,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150376,Control,Male,73,78,85,91,fev1_post: 91,92,88,no_value,2_Ever,0.228,0-At Risk
+GSM1150377,Interstitial lung disease,Female,64,71,101,no_value,no_value,99,no_value,2-UIP/IPF,2_Ever,0.196,0-At Risk
+GSM1150378,Interstitial lung disease,Female,76,31,64,67,fev1_post: 67,55,58,2-UIP/IPF,3_Never,0.353,no_value
+GSM1150379,Interstitial lung disease,Male,61,51,89,90,fev1_post: 90,90,86,2-UIP/IPF,2_Ever,1.187,0-At Risk
+GSM1150380,Interstitial lung disease,Male,55,16,55,no_value,no_value,44,no_value,2-UIP/IPF,2_Ever,2.471,no_value
+GSM1150381,Control,Female,75,78,87,no_value,no_value,89,no_value,no_value,2_Ever,4.104,0-At Risk
+GSM1150382,Interstitial lung disease,Male,60,32,66,no_value,no_value,56,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150383,Chronic Obstructive Lung Disease,Female,54,82,64,72,fev1_post: 72,83,83,no_value,2_Ever,0.5,2-Moderate COPD
+GSM1150384,Interstitial lung disease,Female,73,50,90,no_value,no_value,80,no_value,2-UIP/IPF,3_Never,0.121,0-At Risk
+GSM1150385,Interstitial lung disease,Male,79,68,95,96,fev1_post: 96,96,97,2-UIP/IPF,2_Ever,0.405,0-At Risk
+GSM1150386,Interstitial lung disease,Female,50,69,80,no_value,no_value,69,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,0.323,no_value
+GSM1150387,Interstitial lung disease,Male,57,43,69,no_value,no_value,59,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150388,Chronic Obstructive Lung Disease,Female,49,35,28,35,fev1_post: 35,80,99,no_value,2_Ever,43.7,3-Severe COPD
+GSM1150389,Chronic Obstructive Lung Disease,Male,45,43,35,40,fev1_post: 40,42,48,no_value,1_Current,50.1,3-Severe COPD
+GSM1150390,Interstitial lung disease,Female,45,51,70,no_value,no_value,65,no_value,2-UIP/IPF,3_Never,0.063,no_value
+GSM1150391,Interstitial lung disease,Female,62,32,42,no_value,no_value,36,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150392,Interstitial lung disease,Male,68,57,75,71,fev1_post: 71,82,78,2-UIP/IPF,3_Never,no_value,2-Moderate COPD
+GSM1150393,Chronic Obstructive Lung Disease,Female,71,41,28,31,fev1_post: 31,73,84,no_value,2_Ever,28.2,3-Severe COPD
+GSM1150394,Control,Male,71,82,114,no_value,no_value,106,no_value,no_value,2_Ever,0.513,0-At Risk
+GSM1150395,Interstitial lung disease,Male,71,39,65,no_value,no_value,67,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150396,Chronic Obstructive Lung Disease,Female,67,26,22,26,fev1_post: 26,62,59,no_value,2_Ever,33,4-Very Severe COPD
+GSM1150397,Interstitial lung disease,Female,40,no_value,87,no_value,no_value,87,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,no_value,0-At Risk
+GSM1150398,Interstitial lung disease,Male,66,46,63,68,fev1_post: 68,58,61,2-UIP/IPF,3_Never,0.051,no_value
+GSM1150399,Interstitial lung disease,Male,77,47,72,no_value,no_value,61,no_value,2-UIP/IPF,3_Never,0.101,no_value
+GSM1150400,Interstitial lung disease,Female,70,52,76,no_value,no_value,69,no_value,2-UIP/IPF,3_Never,0.015,no_value
+GSM1150401,Interstitial lung disease,Female,73,71,110,no_value,no_value,93,no_value,2-UIP/IPF,3_Never,0.211,0-At Risk
+GSM1150402,Control,Female,45,99,74,81,fev1_post: 81,76,80,no_value,2_Ever,0.032,0-At Risk
+GSM1150403,Control,Female,60,81,92,94,fev1_post: 94,100,102,no_value,3_Never,no_value,0-At Risk
+GSM1150404,Interstitial lung disease,Male,70,51,115,no_value,no_value,106,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150405,Control,Female,71,61,84,94,fev1_post: 94,92,94,no_value,2_Ever,1.282,0-At Risk
+GSM1150406,Chronic Obstructive Lung Disease,Female,70,25,43,44,fev1_post: 44,75,84,no_value,2_Ever,25.8,3-Severe COPD
+GSM1150407,Interstitial lung disease,Female,66,41,57,63,fev1_post: 63,52,57,3-NSIP,3_Never,no_value,no_value
+GSM1150408,Chronic Obstructive Lung Disease,Female,67,18,22,30,fev1_post: 30,51,71,no_value,2_Ever,31.9,4-Very Severe COPD
+GSM1150409,Chronic Obstructive Lung Disease,Male,67,67,59,59,fev1_post: 59,81,82,no_value,2_Ever,1,2-Moderate COPD
+GSM1150410,Interstitial lung disease,Male,66,41,51,no_value,no_value,47,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150411,Interstitial lung disease,Male,68,73,72,76,fev1_post: 76,74,78,10-Fibrosis-Uncharacterized,3_Never,0.313,no_value
+GSM1150412,Interstitial lung disease,Male,72,52,60,no_value,no_value,51,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150413,Control,Female,62,76,83,87,fev1_post: 87,91,92,no_value,2_Ever,3.311,0-At Risk
+GSM1150414,Chronic Obstructive Lung Disease,Male,60,no_value,42,45,fev1_post: 45,62,64,no_value,2_Ever,0.3,3-Severe COPD
+GSM1150415,Interstitial lung disease,Female,74,39,99,101,fev1_post: 101,85,85,2-UIP/IPF,2_Ever,0.014,0-At Risk
+GSM1150416,Interstitial lung disease,Male,79,53,74,no_value,no_value,68,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150417,Control,Female,66,71,105,no_value,no_value,103,no_value,no_value,3_Never,0.172,0-At Risk
+GSM1150418,Interstitial lung disease,Female,59,44,73,no_value,no_value,78,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150419,Chronic Obstructive Lung Disease,Male,64,31,17,17,fev1_post: 17,58,56,no_value,2_Ever,30.3,4-Very Severe COPD
+GSM1150420,Interstitial lung disease,Female,56,56,41,49,fev1_post: 49,54,65,7-Cryptogenic Organizing Pneumonia (COP),2_Ever,no_value,3-Severe COPD
+GSM1150421,Interstitial lung disease,Female,50,9,38,no_value,no_value,40,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150422,Interstitial lung disease,Male,56,54,64,63,fev1_post: 63,57,56,4-Desquamative interstitial pneumonia (DIP),3_Never,no_value,no_value
+GSM1150423,Control,Male,70,122,109,114,fev1_post: 114,97,99,no_value,3_Never,no_value,0-At Risk
+GSM1150424,Interstitial lung disease,Male,67,34,56,57,fev1_post: 57,47,50,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150425,Interstitial lung disease,Male,74,no_value,no_value,no_value,no_value,no_value,no_value,2-UIP/IPF,no_value,no_value,no_value
+GSM1150426,Interstitial lung disease,Male,65,63,70,no_value,no_value,62,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150427,Interstitial lung disease,Female,53,34,64,no_value,no_value,59,no_value,8-Acute interstitial pneumonia (AIP),2_Ever,no_value,no_value
+GSM1150428,Interstitial lung disease,Male,62,49,72,no_value,no_value,65,no_value,2-UIP/IPF,2_Ever,0.267,no_value
+GSM1150429,Interstitial lung disease,Male,63,61,56,59,fev1_post: 59,54,53,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150430,Chronic Obstructive Lung Disease,Male,71,36,28,27,fev1_post: 27,73,69,no_value,2_Ever,26.3,4-Very Severe COPD
+GSM1150431,Interstitial lung disease,Female,62,61,71,no_value,no_value,64,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150432,Interstitial lung disease,Female,60,no_value,77,no_value,no_value,72,no_value,2-UIP/IPF,2_Ever,5.934,no_value
+GSM1150433,Control,Female,72,70,93,no_value,no_value,86,no_value,no_value,3_Never,no_value,0-At Risk
+GSM1150434,Chronic Obstructive Lung Disease,Female,62,no_value,17,19,fev1_post: 19,58,65,no_value,2_Ever,53.4,4-Very Severe COPD
+GSM1150435,Control,Female,44,77,95,99,fev1_post: 99,116,105,no_value,2_Ever,0.172,0-At Risk
+GSM1150436,Interstitial lung disease,Male,74,54,88,no_value,no_value,78,no_value,2-UIP/IPF,3_Never,0.649,0-At Risk
+GSM1150437,Chronic Obstructive Lung Disease,Female,60,115,72,75,fev1_post: 75,85,85,no_value,2_Ever,0.3,2-Moderate COPD
+GSM1150438,Control,Female,59,89,89,no_value,no_value,86,no_value,no_value,3_Never,0.136,0-At Risk
+GSM1150439,Interstitial lung disease,Female,51,48,63,no_value,no_value,60,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",3_Never,0.008,no_value
+GSM1150440,Interstitial lung disease,Female,46,27,42,34,fev1_post: 34,34,31,3-NSIP,3_Never,no_value,no_value
+GSM1150441,Interstitial lung disease,Female,63,47,70,no_value,no_value,72,no_value,2-UIP/IPF,2_Ever,0.331,no_value
+GSM1150442,Interstitial lung disease,Male,69,65,80,90,fev1_post: 90,73,82,2-UIP/IPF,2_Ever,0.175,0-At Risk
+GSM1150443,Control,Male,75,93,97,98,fev1_post: 98,86,86,no_value,2_Ever,0.193,0-At Risk
+GSM1150444,Control,Female,60,84,102,106,fev1_post: 106,103,110,no_value,no_value,no_value,0-At Risk
+GSM1150445,Interstitial lung disease,Female,42,108,75,84,fev1_post: 84,81,88,2-UIP/IPF,2_Ever,0.038,0-At Risk
+GSM1150446,Interstitial lung disease,Male,62,38,49,no_value,no_value,43,no_value,2-UIP/IPF,3_Never,0.012,no_value
+GSM1150447,Control,Female,42,88,80,82,fev1_post: 82,77,78,no_value,3_Never,0.26,0-At Risk
+GSM1150448,Interstitial lung disease,Female,69,49,57,no_value,no_value,55,no_value,2-UIP/IPF,2_Ever,0.256,no_value
+GSM1150449,Interstitial lung disease,Male,60,33,92,no_value,no_value,85,no_value,2-UIP/IPF,2_Ever,9.945,0-At Risk
+GSM1150450,Chronic Obstructive Lung Disease,Male,72,48,24,32,fev1_post: 32,46,55,no_value,2_Ever,1.9,3-Severe COPD
+GSM1150451,Interstitial lung disease,Male,77,51,95,94,fev1_post: 94,80,79,2-UIP/IPF,no_value,no_value,0-At Risk
+GSM1150452,Control,Male,74,68,84,87,fev1_post: 87,83,83,no_value,2_Ever,no_value,0-At Risk
+GSM1150453,Interstitial lung disease,Female,45,55,74,78,fev1_post: 78,64,65,9-Hypersensitive Pneumonitis (HP),3_Never,0.007,no_value
+GSM1150454,Interstitial lung disease,Male,58,59,69,no_value,no_value,60,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150455,Interstitial lung disease,Female,63,no_value,no_value,no_value,no_value,no_value,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,no_value,no_value
+GSM1150456,Interstitial lung disease,Male,45,43,76,no_value,no_value,71,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,0.015,no_value
+GSM1150457,Control,Male,34,87,110,117,fev1_post: 117,113,114,no_value,3_Never,no_value,0-At Risk
+GSM1150458,Chronic Obstructive Lung Disease,Male,52,49,50,54,fev1_post: 54,77,87,no_value,2_Ever,2.2,2-Moderate COPD
+GSM1150459,Control,Male,75,72,90,98,fev1_post: 98,91,94,no_value,2_Ever,0.068,0-At Risk
+GSM1150460,Interstitial lung disease,Female,70,no_value,94,no_value,no_value,82,no_value,2-UIP/IPF,3_Never,0.35,0-At Risk
+GSM1150461,Interstitial lung disease,Female,64,35,82,no_value,no_value,69,no_value,2-UIP/IPF,2_Ever,0.241,0-At Risk
+GSM1150462,Chronic Obstructive Lung Disease,Male,80,64,74,no_value,no_value,90,no_value,no_value,2_Ever,4.3,2-Moderate COPD
+GSM1150463,Control,Male,72,60,106,107,fev1_post: 107,105,100,no_value,2_Ever,0.313,0-At Risk
+GSM1150464,Chronic Obstructive Lung Disease,Female,76,87,59,67,fev1_post: 67,76,97,no_value,2_Ever,2.2,2-Moderate COPD
+GSM1150465,Chronic Obstructive Lung Disease,Male,28,70,22,21,fev1_post: 21,59,61,no_value,2_Ever,26.1,4-Very Severe COPD
+GSM1150466,Interstitial lung disease,Male,57,68,78,83,fev1_post: 83,71,72,2-UIP/IPF,2_Ever,0.195,0-At Risk
+GSM1150467,Interstitial lung disease,Male,74,45,93,93,fev1_post: 93,76,79,2-UIP/IPF,2_Ever,0.333,0-At Risk
+GSM1150468,Control,Female,74,103,85,91,fev1_post: 91,90,90,no_value,3_Never,no_value,0-At Risk
+GSM1150469,Interstitial lung disease,Male,61,47,64,no_value,no_value,60,no_value,2-UIP/IPF,2_Ever,0.033,no_value
+GSM1150470,Interstitial lung disease,Female,69,53,78,no_value,no_value,77,no_value,2-UIP/IPF,2_Ever,0.032,no_value
+GSM1150471,Interstitial lung disease,Male,46,21,43,no_value,no_value,42,no_value,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,no_value,no_value
+GSM1150472,Interstitial lung disease,Female,69,no_value,59,no_value,no_value,63,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,no_value
+GSM1150473,Control,Female,72,95,137,140,fev1_post: 140,117,118,no_value,no_value,no_value,0-At Risk
+GSM1150474,Interstitial lung disease,Male,23,43,37,no_value,no_value,34,no_value,7-Cryptogenic Organizing Pneumonia (COP),2_Ever,no_value,no_value
+GSM1150475,Interstitial lung disease,Male,63,32,71,no_value,no_value,62,no_value,2-UIP/IPF,2_Ever,0.286,no_value
+GSM1150476,Chronic Obstructive Lung Disease,Female,66,32,16,24,fev1_post: 24,38,55,no_value,2_Ever,25.4,4-Very Severe COPD
+GSM1150477,Interstitial lung disease,Female,67,86,89,93,fev1_post: 93,86,87,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),3_Never,no_value,0-At Risk
+GSM1150478,Control,Male,67,61,88,94,fev1_post: 94,81,86,no_value,2_Ever,0.821,0-At Risk
+GSM1150479,Chronic Obstructive Lung Disease,Female,78,no_value,52,no_value,no_value,75,no_value,no_value,2_Ever,20.3,2-Moderate COPD
+GSM1150480,Interstitial lung disease,Female,65,36,55,no_value,no_value,47,no_value,2-UIP/IPF,2_Ever,0.123,no_value
+GSM1150481,Interstitial lung disease,Female,63,101,105,no_value,no_value,100,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),3_Never,no_value,0-At Risk
+GSM1150482,Interstitial lung disease,Female,41,81,63,no_value,no_value,65,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),1_Current,no_value,no_value
+GSM1150483,Interstitial lung disease,Male,67,104,76,no_value,no_value,83,no_value,10-Fibrosis-Uncharacterized,2_Ever,0.633,2-Moderate COPD
+GSM1150484,Interstitial lung disease,Male,66,36,60,no_value,no_value,54,no_value,2-UIP/IPF,2_Ever,0.416,no_value
+GSM1150485,Interstitial lung disease,Male,63,86,87,92,fev1_post: 92,85,85,3-NSIP,2_Ever,no_value,0-At Risk
+GSM1150486,Chronic Obstructive Lung Disease,Female,52,no_value,11,no_value,no_value,33,no_value,no_value,2_Ever,23.3,4-Very Severe COPD
+GSM1150487,Interstitial lung disease,Male,52,29,57,no_value,no_value,52,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150488,Interstitial lung disease,Female,65,no_value,no_value,no_value,no_value,no_value,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150489,Interstitial lung disease,Male,69,49,77,no_value,no_value,64,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150490,Interstitial lung disease,Female,64,33,43,no_value,no_value,41,no_value,2-UIP/IPF,2_Ever,0.282,no_value
+GSM1150491,Control,Female,47,74,99,103,fev1_post: 103,107,108,no_value,1_Current,0.56,0-At Risk
+GSM1150492,Chronic Obstructive Lung Disease,Female,48,37,14,15,fev1_post: 15,49,55,no_value,2_Ever,48.5,4-Very Severe COPD
+GSM1150493,Interstitial lung disease,Male,65,72,89,86,fev1_post: 86,80,74,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,no_value,0-At Risk
+GSM1150494,Interstitial lung disease,Female,50,91,90,no_value,no_value,84,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,0-At Risk
+GSM1150495,Interstitial lung disease,Male,63,50,70,no_value,no_value,62,no_value,2-UIP/IPF,3_Never,0.031,no_value
+GSM1150496,Chronic Obstructive Lung Disease,Female,61,21,22,no_value,no_value,62,no_value,no_value,2_Ever,23.7,4-Very Severe COPD
+GSM1150497,Interstitial lung disease,Male,69,43,69,no_value,no_value,58,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150498,Control,Male,66,78,88,92,fev1_post: 92,91,89,no_value,2_Ever,0.358,0-At Risk
+GSM1150499,Chronic Obstructive Lung Disease,Female,68,41,40,48,fev1_post: 48,70,82,no_value,2_Ever,38,3-Severe COPD
+GSM1150500,Interstitial lung disease,Male,59,no_value,66,no_value,no_value,66,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,0.041,no_value
+GSM1150501,Control,Female,71,74,86,91,fev1_post: 91,95,95,no_value,3_Never,no_value,0-At Risk
+GSM1150502,Chronic Obstructive Lung Disease,Male,46,42,46,51,fev1_post: 51,76,90,no_value,2_Ever,71.6 (PTX),2-Moderate COPD
+GSM1150503,Interstitial lung disease,Female,69,50,85,no_value,no_value,82,no_value,2-UIP/IPF,2_Ever,2.073,0-At Risk
+GSM1150504,Interstitial lung disease,Male,78,48,67,no_value,no_value,60,no_value,2-UIP/IPF,2_Ever,0.203,no_value
+GSM1150505,Interstitial lung disease,Female,51,87,80,86,fev1_post: 86,79,83,9-Hypersensitive Pneumonitis (HP),2_Ever,0.02,0-At Risk
+GSM1150506,Control,Female,72,68,110,115,fev1_post: 115,109,112,no_value,2_Ever,no_value,0-At Risk
+GSM1150507,Chronic Obstructive Lung Disease,Male,60,87,54,58,fev1_post: 58,70,78,no_value,2_Ever,35.1,2-Moderate COPD
+GSM1150508,Chronic Obstructive Lung Disease,Female,61,48,50,62,fev1_post: 62,85,86,no_value,2_Ever,6.2,2-Moderate COPD
+GSM1150509,Control,Female,73,70,88,93,fev1_post: 93,80,82,no_value,2_Ever,0.146,0-At Risk
+GSM1150510,Interstitial lung disease,Female,60,no_value,77,80,fev1_post: 80,68,71,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150511,Interstitial lung disease,Female,52,64,77,no_value,no_value,78,no_value,10-Fibrosis-Uncharacterized,3_Never,0.089,no_value
+GSM1150512,Chronic Obstructive Lung Disease,Female,67,59,63,70,fev1_post: 70,88,95,no_value,2_Ever,7.8,2-Moderate COPD
+GSM1150513,Interstitial lung disease,Female,72,41,80,83,fev1_post: 83,77,76,2-UIP/IPF,2_Ever,0.142,0-At Risk
+GSM1150514,Chronic Obstructive Lung Disease,Male,63,30,23,29,fev1_post: 29,72,85,no_value,2_Ever,46.3,4-Very Severe COPD
+GSM1150515,Control,Female,77,78,91,102,fev1_post: 102,96,107,no_value,2_Ever,no_value,0-At Risk
+GSM1150516,Control,Female,70,84,113,113,fev1_post: 113,112,108,no_value,2_Ever,no_value,0-At Risk
+GSM1150517,Control,Female,65,113,86,88,fev1_post: 88,95,92,no_value,2_Ever,0.543,0-At Risk
+GSM1150518,Interstitial lung disease,Female,61,35,54,no_value,no_value,52,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,0.075,no_value
+GSM1150519,Interstitial lung disease,Male,65,51,74,no_value,no_value,65,no_value,2-UIP/IPF,1_Current,0.891,no_value
+GSM1150520,Chronic Obstructive Lung Disease,Female,73,54,53,55,fev1_post: 55,69,78,no_value,2_Ever,4.6,2-Moderate COPD
+GSM1150521,Interstitial lung disease,Female,59,80,62,no_value,no_value,63,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,0.041,no_value
+GSM1150522,Interstitial lung disease,Female,24,no_value,82,no_value,no_value,73,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),no_value,no_value,0-At Risk
+GSM1150523,Chronic Obstructive Lung Disease,Male,79,46,44,50,fev1_post: 50,62,76,no_value,2_Ever,7,3-Severe COPD
+GSM1150524,Interstitial lung disease,Female,51,no_value,43,no_value,no_value,35,no_value,3-NSIP,3_Never,no_value,no_value
+GSM1150525,Interstitial lung disease,Male,54,64,77,no_value,no_value,77,no_value,2-UIP/IPF,2_Ever,0.255,no_value
+GSM1150526,Control,Male,67,60,103,102,fev1_post: 102,110,107,no_value,2_Ever,0.284,0-At Risk
+GSM1150527,Control,Female,68,100,100,107,fev1_post: 107,91,100,no_value,2_Ever,0.173,0-At Risk
+GSM1150528,Interstitial lung disease,Female,66,93,75,82,fev1_post: 82,73,76,"1-ILD of known cause, hypersensitivity or associated w/ CVD",2_Ever,0.055,0-At Risk
+GSM1150529,Interstitial lung disease,Male,72,53,78,84,fev1_post: 84,78,82,"1-ILD of known cause, hypersensitivity or associated w/ CVD",no_value,no_value,0-At Risk
+GSM1150530,Interstitial lung disease,Male,65,44,59,51,fev1_post: 51,50,48,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150531,Control,Female,60,102,91,94,fev1_post: 94,95,94,no_value,2_Ever,0.059,0-At Risk
+GSM1150532,Interstitial lung disease,Male,82,50,104,106,fev1_post: 106,89,88,2-UIP/IPF,2_Ever,3.623,0-At Risk
+GSM1150533,Interstitial lung disease,Male,72,36,68,no_value,no_value,58,no_value,2-UIP/IPF,2_Ever,0.793,no_value
+GSM1150534,Interstitial lung disease,Male,80,32,68,no_value,no_value,52,no_value,2-UIP/IPF,2_Ever,0.046,no_value
+GSM1150535,Interstitial lung disease,Female,65,33,66,67,fev1_post: 67,54,56,2-UIP/IPF,3_Never,0.174,no_value
+GSM1150536,Interstitial lung disease,Female,60,31,51,no_value,no_value,45,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150537,Control,Female,63,79,100,no_value,no_value,92,no_value,no_value,3_Never,no_value,0-At Risk
+GSM1150538,Interstitial lung disease,Female,57,83,39,40,fev1_post: 40,64,67,"1-ILD of known cause, hypersensitivity or associated w/ CVD",3_Never,no_value,3-Severe COPD
+GSM1150539,Chronic Obstructive Lung Disease,Female,61,54,45,54,fev1_post: 54,76,85,no_value,2_Ever,12.6,2-Moderate COPD
+GSM1150540,Interstitial lung disease,Female,77,64,109,no_value,no_value,99,no_value,10-Fibrosis-Uncharacterized,3_Never,0.5,0-At Risk
+GSM1150541,Interstitial lung disease,Male,57,16,73,no_value,no_value,70,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150542,Interstitial lung disease,Male,80,67,91,96,fev1_post: 96,75,76,2-UIP/IPF,3_Never,0.182,0-At Risk
+GSM1150543,Control,Male,64,77,81,88,fev1_post: 88,79,84,no_value,2_Ever,no_value,0-At Risk
+GSM1150544,Chronic Obstructive Lung Disease,Male,60,28,15,17,fev1_post: 17,33,37,no_value,2_Ever,21.7,4-Very Severe COPD
+GSM1150545,Interstitial lung disease,Female,71,65,90,no_value,no_value,75,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150546,Interstitial lung disease,Female,71,87,99,no_value,no_value,90,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150547,Interstitial lung disease,Male,63,55,45,no_value,no_value,44,no_value,10-Fibrosis-Uncharacterized,2_Ever,no_value,no_value
+GSM1149949,Chronic Obstructive Lung Disease,Female,46,34,no_value,26,fev1_post: 26,73,78,no_value,2_Ever,41.5,4-Very Severe COPD
+GSM1149953,Chronic Obstructive Lung Disease,Male,46,45,no_value,51,fev1_post: 51,76,90,no_value,2_Ever,71.6 (PTX),2-Moderate COPD
+GSM1149954,Chronic Obstructive Lung Disease,Male,56,102,no_value,91,fev1_post: 91,79,79,no_value,3_Never,0.121,0-At Risk
+GSM1149955,Control,Female,49,102,no_value,112,fev1_post: 112,119,119,no_value,2_Ever,no_value,0-At Risk
+GSM1149956,Chronic Obstructive Lung Disease,Male,78,66,no_value,78,fev1_post: 78,82,83,no_value,2_Ever,3.767,2-Moderate COPD
+GSM1149957,Interstitial lung disease,Female,65,73,no_value,81,fev1_post: 81,86,89,9-Hypersensitive Pneumonitis (HP),2_Ever,1.247,1-MCOPD
+GSM1149959,Interstitial lung disease,Male,55,58,no_value,no_value,no_value,94,no_value,2-UIP/IPF,2_Ever,0.443,0-At Risk
+GSM1149960,Chronic Obstructive Lung Disease,Female,61,no_value,no_value,no_value,no_value,47,no_value,no_value,2_Ever,41.9,4-Very Severe COPD
+GSM1149961,Chronic Obstructive Lung Disease,Male,73,69,no_value,67,fev1_post: 67,63,77,no_value,no_value,no_value,2-Moderate COPD
+GSM1149964,Chronic Obstructive Lung Disease,Male,91,76,no_value,106,fev1_post: 106,111,115,no_value,2_Ever,5.7,1-MCOPD
+GSM1149965,Chronic Obstructive Lung Disease,Male,54,46,no_value,40,fev1_post: 40,62,89,no_value,2_Ever,29.5,3-Severe COPD
+GSM1149967,Chronic Obstructive Lung Disease,Female,53,103,no_value,107,fev1_post: 107,108,108,no_value,2_Ever,8.16,0-At Risk
+GSM1149968,Chronic Obstructive Lung Disease,Female,49,no_value,no_value,no_value,no_value,62,no_value,no_value,2_Ever,44.8,4-Very Severe COPD
+GSM1149969,Chronic Obstructive Lung Disease,Male,56,no_value,no_value,no_value,no_value,23,no_value,no_value,2_Ever,59.8,4-Very Severe COPD
+GSM1149970,Control,Male,69,88,no_value,101,fev1_post: 101,92,91,no_value,3_Never,2.544,0-At Risk
+GSM1149972,Chronic Obstructive Lung Disease,Female,61,74,no_value,80,fev1_post: 80,85,86,no_value,2_Ever,10.5,0-At Risk
+GSM1149973,Chronic Obstructive Lung Disease,Female,56,14,no_value,28,fev1_post: 28,59,66,no_value,2_Ever,14.2,4-Very Severe COPD
+GSM1149974,Interstitial lung disease,Female,68,67,no_value,47,fev1_post: 47,39,42,2-UIP/IPF,3_Never,0.013,no_value
+GSM1149976,Interstitial lung disease,Male,64,35,no_value,no_value,no_value,39,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1149977,Interstitial lung disease,Female,74,57,no_value,no_value,no_value,89,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1149978,Chronic Obstructive Lung Disease,Female,59,27,no_value,no_value,no_value,49,no_value,no_value,2_Ever,41.7,4-Very Severe COPD
+GSM1149979,Chronic Obstructive Lung Disease,Male,70,103,no_value,54,fev1_post: 54,55,65,no_value,2_Ever,0.8,2-Moderate COPD
+GSM1149980,Chronic Obstructive Lung Disease,Male,58,41,no_value,32,fev1_post: 32,79,86,no_value,2_Ever,27.7,3-Severe COPD
+GSM1149982,Interstitial lung disease,Male,61,60,no_value,no_value,no_value,67,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,0.15,no_value
+GSM1149983,Interstitial lung disease,Female,66,52,no_value,89,fev1_post: 89,81,82,9-Hypersensitive Pneumonitis (HP),2_Ever,0.879,0-At Risk
+GSM1149984,Interstitial lung disease,Male,73,56,no_value,no_value,no_value,72,no_value,2-UIP/IPF,2_Ever,0.69,0-At Risk
+GSM1149986,Chronic Obstructive Lung Disease,Male,69,56,no_value,47,fev1_post: 47,51,89,no_value,2_Ever,2.6,3-Severe COPD
+GSM1149989,Chronic Obstructive Lung Disease,Male,77,73,no_value,123,fev1_post: 123,98,105,no_value,2_Ever,0.9,0-At Risk
+GSM1149990,Chronic Obstructive Lung Disease,Male,67,30,no_value,37,fev1_post: 37,77,84,no_value,2_Ever,30.1,3-Severe COPD
+GSM1149991,Chronic Obstructive Lung Disease,Male,76,62,no_value,no_value,no_value,81,no_value,no_value,2_Ever,11.7,2-Moderate COPD
+GSM1149994,Interstitial lung disease,Male,48,62,no_value,no_value,no_value,75,no_value,2-UIP/IPF,1_Current,0.102,no_value
+GSM1149995,Chronic Obstructive Lung Disease,Male,75,68,no_value,63,fev1_post: 63,69,81,no_value,2_Ever,2,2-Moderate COPD
+GSM1149997,Interstitial lung disease,Female,77,40,no_value,82,fev1_post: 82,69,67,2-UIP/IPF,3_Never,0.347,0-At Risk
+GSM1149999,Control,Male,59,108,no_value,no_value,no_value,79,no_value,no_value,2_Ever,0.169,0-At Risk
+GSM1150000,Chronic Obstructive Lung Disease,Female,42,31,no_value,25,fev1_post: 25,37,42,no_value,2_Ever,48.8,4-Very Severe COPD
+GSM1150002,Chronic Obstructive Lung Disease,Female,46,34,no_value,no_value,no_value,43,no_value,no_value,2_Ever,10.72,4-Very Severe COPD
+GSM1150003,Chronic Obstructive Lung Disease,Male,69,96,no_value,74,fev1_post: 74,93,100,no_value,2_Ever,3.6,2-Moderate COPD
+GSM1150004,Interstitial lung disease,Male,56,55,no_value,no_value,no_value,81,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150005,Chronic Obstructive Lung Disease,Male,48,49,no_value,62,fev1_post: 62,69,66,no_value,2_Ever,0.03,no_value
+GSM1150006,Chronic Obstructive Lung Disease,Female,55,26,no_value,no_value,no_value,48,no_value,no_value,2_Ever,24.7,4-Very Severe COPD
+GSM1150007,Chronic Obstructive Lung Disease,Female,81,88,no_value,81,fev1_post: 81,82,90,no_value,2_Ever,0.3,1-MCOPD
+GSM1150008,Interstitial lung disease,Male,69,no_value,no_value,no_value,no_value,78,no_value,2-UIP/IPF,2_Ever,0.289,0-At Risk
+GSM1150009,Interstitial lung disease,Male,62,59,no_value,80,fev1_post: 80,76,73,2-UIP/IPF,2_Ever,1.506,0-At Risk
+GSM1150011,Interstitial lung disease,Male,64,62,no_value,no_value,no_value,96,no_value,2-UIP/IPF,3_Never,1.431,0-At Risk
+GSM1150013,Chronic Obstructive Lung Disease,Female,57,no_value,no_value,87,fev1_post: 87,91,98,no_value,no_value,no_value,1-MCOPD
+GSM1150015,Interstitial lung disease,Male,52,55,no_value,66,fev1_post: 66,56,59,9-Hypersensitive Pneumonitis (HP),2_Ever,no_value,no_value
+GSM1150016,Chronic Obstructive Lung Disease,Male,72,86,no_value,34,fev1_post: 34,43,44,no_value,2_Ever,0.1,3-Severe COPD
+GSM1150018,Interstitial lung disease,Male,37,16,no_value,no_value,no_value,37,no_value,2-UIP/IPF,2_Ever,0.193,no_value
+GSM1150019,Interstitial lung disease,Female,46,46,no_value,no_value,no_value,57,no_value,4-Desquamative interstitial pneumonia (DIP),1_Current,no_value,no_value
+GSM1150020,Chronic Obstructive Lung Disease,Female,56,32,no_value,no_value,no_value,68,no_value,no_value,2_Ever,26.9,4-Very Severe COPD
+GSM1150021,Interstitial lung disease,Male,57,30,no_value,no_value,no_value,70,no_value,3-NSIP,2_Ever,0.131,no_value
+GSM1150022,Control,Female,71,108,no_value,102,fev1_post: 102,97,95,no_value,3_Never,0.203,0-At Risk
+GSM1150023,Interstitial lung disease,Female,50,108,no_value,107,fev1_post: 107,105,104,7-Cryptogenic Organizing Pneumonia (COP),no_value,no_value,0-At Risk
+GSM1150024,Interstitial lung disease,Female,65,66,no_value,no_value,no_value,72,no_value,2-UIP/IPF,2_Ever,0.042,0-At Risk
+GSM1150025,Chronic Obstructive Lung Disease,Male,68,31,no_value,22,fev1_post: 22,70,75,no_value,2_Ever,44.4,4-Very Severe COPD
+GSM1150026,Interstitial lung disease,Female,28,no_value,no_value,no_value,no_value,24,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,0.052,no_value
+GSM1150027,Chronic Obstructive Lung Disease,Male,65,79,no_value,78,fev1_post: 78,90,91,no_value,1_Current,3.5,2-Moderate COPD
+GSM1150028,Interstitial lung disease,Male,60,26,no_value,84,fev1_post: 84,79,82,2-UIP/IPF,2_Ever,7.511,0-At Risk
+GSM1150029,Chronic Obstructive Lung Disease,Male,66,68,no_value,71,fev1_post: 71,74,78,no_value,2_Ever,2.1,2-Moderate COPD
+GSM1150033,Interstitial lung disease,Female,32,60,no_value,no_value,no_value,93,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),1_Current,no_value,0-At Risk
+GSM1150034,Interstitial lung disease,Male,55,no_value,no_value,no_value,no_value,67,no_value,4-Desquamative interstitial pneumonia (DIP),2_Ever,0.168,no_value
+GSM1150035,Interstitial lung disease,Female,54,41,no_value,no_value,no_value,100,no_value,"1-of known cause, hypersensitivity or associated w/ CVD",2_Ever,0.008,0-At Risk
+GSM1150036,Interstitial lung disease,Male,60,34,no_value,no_value,no_value,66,no_value,2-UIP/IPF,3_Never,0.065,no_value
+GSM1150038,Chronic Obstructive Lung Disease,Male,63,98,no_value,85,fev1_post: 85,119,120,no_value,2_Ever,8.8,1-MCOPD
+GSM1150039,Interstitial lung disease,Female,53,no_value,no_value,no_value,no_value,27,no_value,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,no_value
+GSM1150042,Control,Female,56,88,no_value,no_value,no_value,98,no_value,no_value,3_Never,0.09,0-At Risk
+GSM1150043,Chronic Obstructive Lung Disease,Female,65,74,no_value,101,fev1_post: 101,104,108,no_value,2_Ever,1.4,0-At Risk
+GSM1150044,Chronic Obstructive Lung Disease,Female,58,57,no_value,74,fev1_post: 74,85,84,no_value,2_Ever,0.4,2-Moderate COPD
+GSM1150045,Chronic Obstructive Lung Disease,Male,57,72,no_value,93,fev1_post: 93,100,106,no_value,2_Ever,0.4,1-MCOPD
+GSM1150046,Chronic Obstructive Lung Disease,Male,44,52,no_value,18,fev1_post: 18,13,36,no_value,2_Ever,41.796,4-Very Severe COPD
+GSM1150047,Chronic Obstructive Lung Disease,Male,69,67,no_value,54,fev1_post: 54,64,68,no_value,2_Ever,1.1,2-Moderate COPD
+GSM1150048,Interstitial lung disease,Male,68,56,no_value,81,fev1_post: 81,67,69,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150049,Chronic Obstructive Lung Disease,Male,51,43,no_value,25,fev1_post: 25,44,51,no_value,3_Never,43.768,4-Very Severe COPD
+GSM1150050,Chronic Obstructive Lung Disease,Male,68,61,no_value,74,fev1_post: 74,81,96,no_value,2_Ever,7,2-Moderate COPD
+GSM1150051,Interstitial lung disease,Male,55,29,no_value,no_value,no_value,44,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150052,Chronic Obstructive Lung Disease,Female,63,17,no_value,23,fev1_post: 23,64,64,no_value,2_Ever,51.431,4-Very Severe COPD
+GSM1150054,Interstitial lung disease,Male,71,51,no_value,89,fev1_post: 89,76,80,2-UIP/IPF,2_Ever,0.204,0-At Risk
+GSM1150057,Interstitial lung disease,Female,41,66,no_value,no_value,no_value,80,no_value,"1-of known cause, hypersensitivity or associated w/ CVD",3_Never,no_value,0-At Risk
+GSM1150058,Interstitial lung disease,Male,71,39,no_value,71,fev1_post: 71,62,62,2-UIP/IPF,2_Ever,0.08,no_value
+GSM1150059,Chronic Obstructive Lung Disease,Female,73,64,no_value,74,fev1_post: 74,87,94,no_value,2_Ever,7.241,2-Moderate COPD
+GSM1150060,Chronic Obstructive Lung Disease,Female,56,no_value,no_value,no_value,no_value,52,no_value,no_value,2_Ever,43.3,4-Very Severe COPD
+GSM1150061,Chronic Obstructive Lung Disease,Female,74,52,no_value,66,fev1_post: 66,77,102,no_value,2_Ever,7.3,2-Moderate COPD
+GSM1150062,Chronic Obstructive Lung Disease,Female,57,36,no_value,26,fev1_post: 26,61,68,no_value,2_Ever,33.5,4-Very Severe COPD
+GSM1150063,Chronic Obstructive Lung Disease,Female,54,35,no_value,60,fev1_post: 60,76,87,no_value,1_Current,no_value,2-Moderate COPD
+GSM1150064,Chronic Obstructive Lung Disease,Female,57,69,no_value,66,fev1_post: 66,70,73,no_value,2_Ever,0.469,no_value
+GSM1150065,Chronic Obstructive Lung Disease,Female,61,47,no_value,60,fev1_post: 60,98,105,no_value,2_Ever,17.813,2-Moderate COPD
+GSM1150066,Interstitial lung disease,Female,58,34,no_value,no_value,no_value,82,no_value,10-Fibrosis-Uncharacterized,2_Ever,10.048,0-At Risk
+GSM1150068,Interstitial lung disease,Male,72,36,no_value,no_value,no_value,62,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150069,Chronic Obstructive Lung Disease,Female,72,71,no_value,93,fev1_post: 93,102,110,no_value,3_Never,1.82,1-MCOPD
+GSM1150071,Chronic Obstructive Lung Disease,Male,70,34,no_value,29,fev1_post: 29,64,68,no_value,2_Ever,21.1,4-Very Severe COPD
+GSM1150072,Interstitial lung disease,Female,49,43,no_value,54,fev1_post: 54,51,51,3-NSIP,2_Ever,0.013,no_value
+GSM1150073,Interstitial lung disease,Female,74,68,no_value,no_value,no_value,73,no_value,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150074,Chronic Obstructive Lung Disease,Female,66,22,no_value,50,fev1_post: 50,45,53,no_value,2_Ever,36.6,no_value
+GSM1150076,Interstitial lung disease,Male,76,47,no_value,no_value,no_value,53,no_value,2-UIP/IPF,2_Ever,0.641,no_value
+GSM1150077,Chronic Obstructive Lung Disease,Male,59,112,no_value,91,fev1_post: 91,101,99,no_value,2_Ever,0.5,1-MCOPD
+GSM1150079,Interstitial lung disease,Female,59,64,no_value,107,fev1_post: 107,93,96,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150082,Chronic Obstructive Lung Disease,Male,48,64,no_value,58,fev1_post: 58,75,77,no_value,2_Ever,18,2-Moderate COPD
+GSM1150083,Control,Female,71,no_value,no_value,no_value,no_value,84,no_value,no_value,2_Ever,0.097,0-At Risk
+GSM1150084,Interstitial lung disease,Male,58,58,no_value,82,fev1_post: 82,86,89,2-UIP/IPF,2_Ever,3.719,0-At Risk
+GSM1150086,Chronic Obstructive Lung Disease,Male,82,61,no_value,64,fev1_post: 64,90,92,no_value,2_Ever,6.5,2-Moderate COPD
+GSM1150087,Interstitial lung disease,Male,40,no_value,no_value,no_value,no_value,28,no_value,3-NSIP,no_value,no_value,no_value
+GSM1150088,Interstitial lung disease,Male,61,36,no_value,no_value,no_value,70,no_value,2-UIP/IPF,2_Ever,6.86,no_value
+GSM1150091,Interstitial lung disease,Female,32,65,no_value,66,fev1_post: 66,66,68,9-Hypersensitive Pneumonitis (HP),3_Never,0.013,no_value
+GSM1150092,Control,Female,56,no_value,no_value,no_value,no_value,60,no_value,no_value,2_Ever,0.121,0-At Risk
+GSM1150093,Chronic Obstructive Lung Disease,Male,67,86,no_value,61,fev1_post: 61,78,94,no_value,no_value,no_value,2-Moderate COPD
+GSM1150094,Interstitial lung disease,Female,57,20,no_value,no_value,no_value,40,no_value,2-UIP/IPF,2_Ever,0.184,no_value
+GSM1150095,Control,Male,78,no_value,no_value,no_value,no_value,95,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1150096,Interstitial lung disease,Female,73,39,no_value,68,fev1_post: 68,56,56,9-Hypersensitive Pneumonitis (HP),3_Never,no_value,no_value
+GSM1150097,Interstitial lung disease,Female,49,76,no_value,no_value,no_value,73,no_value,"1-of known cause, hypersensitivity or associated w/ CVD",2_Ever,0.32,no_value
+GSM1150098,Interstitial lung disease,Female,35,62,no_value,no_value,no_value,64,no_value,10-Fibrosis-Uncharacterized,3_Never,0.01,no_value
+GSM1150099,Chronic Obstructive Lung Disease,Female,62,45,no_value,37,fev1_post: 37,48,51,no_value,1_Current,0.9,3-Severe COPD
+GSM1150101,Interstitial lung disease,Female,44,52,no_value,no_value,no_value,76,no_value,5-Respiratory bronchiolitis-interstitial lung disease (RB-ILD),2_Ever,0.111,no_value
+GSM1150102,Chronic Obstructive Lung Disease,Male,74,67,no_value,66,fev1_post: 66,65,73,no_value,2_Ever,0.7,2-Moderate COPD
+GSM1150103,Interstitial lung disease,Female,26,no_value,no_value,no_value,no_value,25,no_value,10-Fibrosis-Uncharacterized,3_Never,0.097,no_value
+GSM1150104,Interstitial lung disease,Male,64,67,no_value,no_value,no_value,72,no_value,2-UIP/IPF,3_Never,no_value,0-At Risk
+GSM1150105,Chronic Obstructive Lung Disease,Male,79,no_value,no_value,79,fev1_post: 79,83,88,no_value,2_Ever,0.974,2-Moderate COPD
+GSM1150106,Interstitial lung disease,Male,73,34,no_value,79,fev1_post: 79,60,62,2-UIP/IPF,3_Never,0.782,no_value
+GSM1150107,Control,Male,80,70,no_value,95,fev1_post: 95,94,95,no_value,2_Ever,no_value,0-At Risk
+GSM1150108,Interstitial lung disease,Female,62,30,no_value,41,fev1_post: 41,43,51,2-UIP/IPF,3_Never,7.246,3-Severe COPD
+GSM1150109,Control,Female,45,88,no_value,91,fev1_post: 91,93,94,no_value,3_Never,no_value,0-At Risk
+GSM1150110,Interstitial lung disease,Female,59,42,no_value,no_value,no_value,68,no_value,9-Hypersensitive Pneumonitis (HP),2_Ever,0.042,no_value
+GSM1150111,Interstitial lung disease,Male,72,41,no_value,no_value,no_value,72,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150112,Chronic Obstructive Lung Disease,Female,55,25,no_value,14,fev1_post: 14,53,56,no_value,2_Ever,no_value,4-Very Severe COPD
+GSM1150113,Control,Female,65,81,no_value,no_value,no_value,103,no_value,no_value,3_Never,no_value,0-At Risk
+GSM1150114,Control,Male,64,no_value,no_value,no_value,no_value,88,no_value,no_value,2_Ever,no_value,0-At Risk
+GSM1150115,Control,Female,53,84,no_value,no_value,no_value,79,no_value,no_value,3_Never,no_value,no_value
+GSM1150116,Chronic Obstructive Lung Disease,Male,60,35,no_value,21,fev1_post: 21,63,82,no_value,2_Ever,61.7,4-Very Severe COPD
+GSM1150117,Chronic Obstructive Lung Disease,Male,63,24,no_value,14,fev1_post: 14,59,62,no_value,2_Ever,58.6,4-Very Severe COPD
+GSM1150118,Interstitial lung disease,Male,61,23,no_value,no_value,no_value,43,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150120,Chronic Obstructive Lung Disease,Female,59,no_value,no_value,no_value,no_value,35,no_value,no_value,2_Ever,45.3,4-Very Severe COPD
+GSM1150121,Interstitial lung disease,Male,58,22,no_value,no_value,no_value,40,no_value,2-UIP/IPF,3_Never,8.889,no_value
+GSM1150123,Chronic Obstructive Lung Disease,Male,75,75,no_value,56,fev1_post: 56,71,83,no_value,2_Ever,4.2,2-Moderate COPD
+GSM1150124,Control,Male,68,128,no_value,no_value,no_value,112,no_value,no_value,3_Never,0.491,0-At Risk
+GSM1150125,Interstitial lung disease,Female,50,46,no_value,47,fev1_post: 47,56,54,2-UIP/IPF,3_Never,0.012,3-Severe COPD
+GSM1150126,Chronic Obstructive Lung Disease,Male,70,44,no_value,41,fev1_post: 41,39,46,no_value,2_Ever,3.197,3-Severe COPD
+GSM1150127,Chronic Obstructive Lung Disease,Male,77,58,no_value,76,fev1_post: 76,106,106,no_value,2_Ever,9.3,2-Moderate COPD
+GSM1150128,Control,Male,44,87,no_value,109,fev1_post: 109,96,100,no_value,3_Never,no_value,0-At Risk
+GSM1150129,Chronic Obstructive Lung Disease,Male,58,27,no_value,35,fev1_post: 35,71,83,no_value,2_Ever,29.7,3-Severe COPD
+GSM1150130,Interstitial lung disease,Male,49,no_value,no_value,52,fev1_post: 52,48,52,2-UIP/IPF,2_Ever,0.439,no_value
+GSM1150131,Chronic Obstructive Lung Disease,Male,50,57,no_value,23,fev1_post: 23,51,66,no_value,2_Ever,2.1,4-Very Severe COPD
+GSM1150132,Interstitial lung disease,Male,61,no_value,no_value,no_value,no_value,32,no_value,2-UIP/IPF,3_Never,no_value,no_value
+GSM1150133,Chronic Obstructive Lung Disease,Male,72,42,no_value,44,fev1_post: 44,80,99,no_value,2_Ever,35.6,3-Severe COPD
+GSM1150134,Chronic Obstructive Lung Disease,Male,59,78,no_value,50,fev1_post: 50,71,81,no_value,2_Ever,5.6,3-Severe COPD
+GSM1150135,Control,Male,71,65,no_value,no_value,no_value,102,no_value,no_value,2_Ever,2.789,0-At Risk
+GSM1150136,Chronic Obstructive Lung Disease,Male,60,13,no_value,no_value,no_value,114,no_value,no_value,2_Ever,27.5,2-Moderate COPD
+GSM1150137,Control,Male,67,96,no_value,116,fev1_post: 116,104,108,no_value,2_Ever,no_value,0-At Risk
+GSM1150138,Chronic Obstructive Lung Disease,Male,53,16,no_value,no_value,no_value,78,no_value,no_value,2_Ever,62,4-Very Severe COPD
+GSM1150139,Chronic Obstructive Lung Disease,Male,79,95,no_value,55,fev1_post: 55,49,63,no_value,2_Ever,1,2-Moderate COPD
+GSM1150140,Chronic Obstructive Lung Disease,Female,52,no_value,no_value,19,fev1_post: 19,21,26,no_value,2_Ever,4.7,4-Very Severe COPD
+GSM1150141,Chronic Obstructive Lung Disease,Male,49,no_value,no_value,no_value,no_value,77,no_value,no_value,2_Ever,41.9,4-Very Severe COPD
+GSM1150142,Interstitial lung disease,Male,62,15,no_value,no_value,no_value,49,no_value,2-UIP/IPF,2_Ever,no_value,no_value
+GSM1150356,Interstitial lung disease,Male,56,18,no_value,no_value,no_value,80,no_value,2-UIP/IPF,2_Ever,no_value,0-At Risk
+GSM1150360,Interstitial lung disease,Male,63,26,no_value,no_value,no_value,62,no_value,2-UIP/IPF,2_Ever,no_value,no_value
